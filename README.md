@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sekhar Duggirala</h1>
-<h3 align="center">Seasoned professional with over 16 years of dynamic experience in the realms of Cybersecurity, DevOps, Cloud, Virtualization, and Project Management.</h3>
+<h3 align="center">Seasoned professional with over 16 years of dynamic experience in the realms of Cybersecurity, Project Management, DevOps, Cloud (AWS & Azure), and Virtualization </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sekhar1260&label=Profile%20views&color=0e75b6&style=flat" alt="sekhar1260" /> </p>
 
