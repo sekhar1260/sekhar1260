@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [CloudLink](https://www.dell.com/support/home/en-us/product-support/product/cloudlink-securevm/overview)
 
-- 💬 Ask me about **Cybersecurity, Project Management, AWS, Azure, Bash, DevOps, and Linux internals.**
+- 💬 Ask me about **Cybersecurity, Project Management, AWS, Azure, DevOps, Bash, and Linux internals.**
 
 - 📫 How to reach me **sekhar1260@gmail.com**
 
